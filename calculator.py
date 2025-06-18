@@ -8,6 +8,11 @@ class Calculator:
     def subtraction(self, x, y):
         return x -  y
     
+    def multiply():
+        pass
+
+    def divide():
+        pass
 if __name__ == "__main__":
     calc = Calculator()
     
